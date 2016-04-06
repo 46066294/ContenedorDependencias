@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\ContenedorDependenciasEj\ContenedorDependenciasEj\bin\Debug\ContenedorDependenciasEj.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ContenedorDependenciasEj\ContenedorDependenciasEj\bin\Debug\ContenedorDependenciasEj.exe
+c:\users\admin\documents\visual studio 2012\Projects\ContenedorDependenciasEj\ContenedorDependenciasEj\bin\Debug\ContenedorDependenciasEj.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ContenedorDependenciasEj\ContenedorDependenciasEj\obj\Debug\ContenedorDependenciasEj.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\ContenedorDependenciasEj\ContenedorDependenciasEj\obj\Debug\ContenedorDependenciasEj.exe
+c:\users\admin\documents\visual studio 2012\Projects\ContenedorDependenciasEj\ContenedorDependenciasEj\obj\Debug\ContenedorDependenciasEj.pdb
